@@ -1,0 +1,5 @@
+# Protection du fichier de configuration de prod "config.php"
+config-prod.php
+
+# Protection des données dans data
+data/
